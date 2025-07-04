@@ -14,7 +14,7 @@ Welcome! I'm Emmanuella — a data analyst with a background in Medical Biochemi
 
 ## 📂 Project Summaries
 
-### 🔹 **Sales Performance Dashboard**
+### 🔹 **CAR SALES 2 (Sales Performance Dashboard)**
 - **Tool:** Power BI
 - **What I Did:** Tracked revenue trends, top-selling products, and seasonal performance across regions
 - **Impact:** Helped reduce reporting time by 8 hours/week and guided strategy for 20% higher returns
