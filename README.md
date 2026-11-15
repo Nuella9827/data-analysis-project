@@ -19,7 +19,7 @@ Hi, I'm **Emmanuella Ukutegbe**, a Data Analyst with a background in Medical Bio
 - **Problem:** How do customer types and booking patterns affect hotel revenue?
 - **Approach:** Analysed customer types, room demand and booking trends over time.
 - **Impact:** Supported forecasting and revenue planning for a hospitality business.
-- **Screenshot:** ![Hotel revenue dashboard](images/hotel-revenue.png)
+- **Screenshot:** ![Hotel revenue dashboard](hotel_revenue.png)
 
 ### 3. HR Analytics Dashboard (Power BI) – `Hr analysis.pbix`
 - **Problem:** What drives employee retention and turnover?
