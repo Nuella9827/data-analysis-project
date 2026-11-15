@@ -1,43 +1,45 @@
-# 📊 Emmanuella Ukutegbe - Data Analysis Portfolio
+# Data Analysis Portfolio – Power BI, Python & Excel
 
-Welcome! I'm Emmanuella — a data analyst with a background in Medical Biochemistry and a passion for data storytelling. This repository contains several of my analytics projects using Power BI, Python, and Excel. These projects reflect my skills in data wrangling, visualization, and deriving insights for business impact.
+Hi, I'm **Emmanuella Ukutegbe**, a Data Analyst with a background in Medical Biochemistry. This repository holds a selection of my analysis projects. Each one starts with a business question, cleans the data and ends with insights a team can act on.
 
----
+## Tools
+- **Power BI** – data modelling, DAX measures, KPI cards, slicers and drill-downs
+- **Excel** – pivot tables, formulas, dashboards and reporting
+- **Python** – Pandas, NumPy, Jupyter notebooks, web scraping (BeautifulSoup, Requests)
 
-## 🛠️ Tools & Technologies
-- **Power BI** – Dashboarding, KPI tracking, slicers, filters
-- **Excel** – Pivot tables, macros, automation, reporting
-- **Python** – Data scraping, Pandas/Numpy, Jupyter Notebooks
-- **SQL** – (Currently in progress)
+## Projects
 
----
+### 1. Car Sales Performance Dashboard (Power BI) – `CAR SALES 2.pbix`
+- **Problem:** Which products, regions and seasons drive revenue?
+- **Approach:** Cleaned sales data, built revenue-trend, top-product and regional views with slicers.
+- **Impact:** Helped reduce reporting time by 8 hours/week and guided strategy for 20% higher returns.
+- **Screenshot:** ![Car sales dashboard](images/car-sales.png)
 
-## 📂 Project Summaries
+### 2. Hotel Revenue Analysis (Power BI) – `Hotel revenue analysis.pbix`
+- **Problem:** How do customer types and booking patterns affect hotel revenue?
+- **Approach:** Analysed customer types, room demand and booking trends over time.
+- **Impact:** Supported forecasting and revenue planning for a hospitality business.
+- **Screenshot:** ![Hotel revenue dashboard](images/hotel-revenue.png)
 
-### 🔹 **CAR SALES 2 (Sales Performance Dashboard)**
-- **Tool:** Power BI
-- **What I Did:** Tracked revenue trends, top-selling products, and seasonal performance across regions
-- **Impact:** Helped reduce reporting time by 8 hours/week and guided strategy for 20% higher returns
+### 3. HR Analytics Dashboard (Power BI) – `Hr analysis.pbix`
+- **Problem:** What drives employee retention and turnover?
+- **Approach:** Analysed 2,000+ employee feedback responses.
+- **Impact:** Helped HR identify key retention factors.
+- **Screenshot:** ![HR dashboard](images/hr-analytics.png)
 
-### 🔹 **Hotel Revenue Analysis**
-- **Tool:** Power BI
-- **What I Did:** Analyzed customer types, room demand, and booking trends
-- **Impact:** Improved forecast accuracy and revenue planning for hospitality
+### 4. Amazon Web Scraper (Python) – `Amazon web scraper.ipynb`
+- Scrapes product information and reviews from Amazon with BeautifulSoup and Requests and saves them for analysis.
 
-### 🔹 **HR Analytics Dashboard**
-- **Tool:** Power BI
-- **What I Did:** Analyzed 2,000+ employee feedback responses
-- **Impact:** Helped HR teams identify key retention factors and reduce turnover
+### 5. Movie Correlation Analysis (Python) – `Movie correlation project.ipynb`
+- Cleans a movies dataset and tests which factors (such as budget) correlate with gross earnings, using Pandas, Seaborn and Pearson/Kendall/Spearman correlation.
 
-### 🔹 **Amazon Web Scraper**
-- **Tool:** Python
-- **What I Did:** Built a script to scrape product info and reviews from Amazon
-- **Libraries:** BeautifulSoup, Requests
+## How to open the files
+- `.pbix` files: open in **Power BI Desktop** (free download from Microsoft).
+- `.ipynb` files: open directly on GitHub, or in Jupyter / Google Colab.
 
----
+## Contact
+📫 ellaukutegbe@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/emmanuella-ukutegbe/) · 🌐 [Portfolio](https://nuella9827.github.io/)
 
-## 📸 Screenshots (Coming Soon)
-I’ll be adding dashboard visuals soon. Stay tuned!
 
 ---
 
