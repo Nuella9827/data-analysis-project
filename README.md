@@ -25,7 +25,7 @@ Hi, I'm **Emmanuella Ukutegbe**, a Data Analyst with a background in Medical Bio
 - **Problem:** What drives employee retention and turnover?
 - **Approach:** Analysed 2,000+ employee feedback responses.
 - **Impact:** Helped HR identify key retention factors.
-- **Screenshot:** ![HR dashboard](images/hr-analytics.png)
+- **Screenshot:** ![HR dashboard](hr_analytics.png)
 
 ### 4. Amazon Web Scraper (Python) – `Amazon web scraper.ipynb`
 - Scrapes product information and reviews from Amazon with BeautifulSoup and Requests and saves them for analysis.
