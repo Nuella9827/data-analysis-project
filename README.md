@@ -14,7 +14,6 @@ Hi, I'm **Emmanuella Ukutegbe**, a Data Analyst with a background in Medical Bio
 - **Approach:** Cleaned sales data, built revenue-trend, top-product and regional views with slicers.
 - **Impact:** Helped reduce reporting time by 8 hours/week and guided strategy for 20% higher returns.
 - **Screenshot:** ![Car sales dashboard](car-sales.png.png)
-- **Screenshot:** ![Car sales dashboard](car-sales.png (2).png)
 
 ### 2. Hotel Revenue Analysis (Power BI) – `Hotel revenue analysis.pbix`
 - **Problem:** How do customer types and booking patterns affect hotel revenue?
